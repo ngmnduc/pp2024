@@ -9,7 +9,7 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Nguyen Minh Duc  
+* Student Name: Nguyen Minh Duc USTH ICT1
 * Student ID: 23BI14102
 
 
